@@ -4,7 +4,8 @@ public enum CurrencyType {
 
     EUR("Euro"),
     USD("Dollar"),
-    RON("Leu");
+    RON("Leu"),
+    SODEXO("Sodexo Ticket");
     private String name;
 
     CurrencyType(String name) {
