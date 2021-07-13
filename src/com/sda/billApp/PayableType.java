@@ -2,7 +2,7 @@ package com.sda.billApp;
 
 public interface PayableType {
 
-    int getValue();
+    double getValue();
 
     CurrencyType getCurrency();
 

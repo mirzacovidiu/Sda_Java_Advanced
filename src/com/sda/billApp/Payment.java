@@ -4,16 +4,35 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Payment {
-    private int amountCollected;
+    private double amountCollected;
     private Bill bill;
-    private final List<PayableType> payableTypes = new ArrayList<PayableType>();
+    private final List<PayableType> payableTypes = new ArrayList();
 
-    public Payment(int amountCollected, Bill bill) {
-        this.amountCollected = amountCollected;
+    public Payment(Bill bill) {
         this.bill = bill;
     }
 
-    public int getAmountCollected() {
+    public boolean isBillPayed() {
+        return this.amountCollected >= bill.getAmount();
+    }
+
+    public void addNewPayableType(PayableType payableType) {
+        if (!payableType.isFake()) {
+            payableTypes.add(payableType);
+        }
+        this.amountCollected += payableType.getValue();
+    }
+
+    @Override
+    public String toString() {
+        return "Payment{" +
+                "amountCollected=" + amountCollected +
+                ", bill=" + bill +
+                ", payableTypes=" + payableTypes +
+                '}';
+    }
+
+    public double getAmountCollected() {
         return amountCollected;
     }
 
@@ -29,12 +48,14 @@ public class Payment {
     public void setBill(Bill bill) {
         this.bill = bill;
     }
+}
 
-    public boolean isBillPayed() {
+  /*  public boolean isBillPayed() {
         return amountCollected >= bill.getAmount(); //Vrem sa verificam daca banii introdusi pt paymentul asta sunt suficienti
     }
+}*/
 
-    public void addNewPayableType(PayableType paymentType) throws FakePayableException {
+    /*public void addNewPayableType(PayableType paymentType) throws FakePayableException {
 
 
         if (!paymentType.isFake()) {
@@ -45,4 +66,4 @@ public class Payment {
             throw new FakePayableException(paymentType);
         }
     }
-}
+}*/

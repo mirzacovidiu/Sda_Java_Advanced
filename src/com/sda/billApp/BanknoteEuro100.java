@@ -6,7 +6,7 @@ public class BanknoteEuro100 extends Banknote{
     }
 
     @Override
-    public int getValue() {
+    public double getValue() {
         return 100;
     }
 

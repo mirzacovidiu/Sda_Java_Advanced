@@ -2,12 +2,12 @@ package com.sda.billApp;
 
 public class BanknoteEuro50 extends Banknote{
 
-    public BanknoteEuro50(int receivedHeight, int receivedWidth) {
-        super(10, 5, receivedHeight, receivedWidth);
+    public BanknoteEuro50(double receivedLength, int receivedWidth) {
+        super(10, 5, receivedLength, receivedWidth);
     }
 
     @Override
-    public int getValue() {
+    public double getValue() {
         return 50;
     }
 

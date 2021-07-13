@@ -6,7 +6,7 @@ public class CoinEur1 extends Coin{
     }
 
     @Override
-    public int getValue() {
+    public double getValue() {
         return 1;
     }
 

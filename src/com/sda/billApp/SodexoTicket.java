@@ -6,7 +6,7 @@ public class SodexoTicket extends Ticket{
     }
 
     @Override
-    public int getValue() {
+    public double getValue() {
         return 10;
     }
 
