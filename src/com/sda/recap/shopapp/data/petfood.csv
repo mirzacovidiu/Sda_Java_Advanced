@@ -1,0 +1,101 @@
+id,price,currency,name,description,expirationDate,isBio,countryOforigin,animalType
+1,81,EUR,Uinta ground squirrel,Spermophilus armatus,05/19/2021,true,Portugal,Crocuta crocuta
+2,11,CUP,"Possum, golden brush-tailed",Trichosurus vulpecula,11/21/2021,true,Cuba,Pavo cristatus
+3,82,BRL,Giant heron,Ardea golieth,02/25/2022,true,Brazil,Bison bison
+4,32,BRL,"Raven, white-necked",Corvus albicollis,08/31/2021,true,Brazil,Rhabdomys pumilio
+5,47,CNY,"Duiker, common",Sylvicapra grimma,12/30/2021,true,China,Crotalus triseriatus
+6,75,CNY,"Gonolek, burchell's",Laniaurius atrococcineus,06/29/2021,false,China,Cervus elaphus
+7,67,MOP,Leadbeateri's ground hornbill,Bucorvus leadbeateri,10/19/2021,true,Macao,Raphicerus campestris
+8,75,CNY,"Cobra, cape",Naja nivea,12/07/2021,true,China,Papio cynocephalus
+9,70,IDR,"Eagle, tawny",Anitibyx armatus,12/25/2021,true,Indonesia,Chordeiles minor
+10,82,NIO,"Hartebeest, coke's",Alcelaphus buselaphus cokii,12/02/2021,true,Nicaragua,Spheniscus mendiculus
+11,19,EUR,Tyrant flycatcher,Myiarchus tuberculifer,10/25/2021,true,France,Acrantophis madagascariensis
+12,50,MAD,Sable antelope,Hippotragus niger,09/16/2021,false,Morocco,Cervus duvauceli
+13,80,COP,Woolly-necked stork,Ciconia episcopus,11/04/2021,false,Colombia,Dusicyon thous
+14,94,SEK,Australian pelican,Pelecanus conspicillatus,09/22/2021,true,Sweden,Mirounga angustirostris
+15,77,PHP,"Bison, american",Bison bison,09/22/2021,false,Philippines,Gymnorhina tibicen
+16,13,EUR,"Grouse, greater sage",Centrocercus urophasianus,01/25/2022,true,Portugal,Fratercula corniculata
+17,38,CNY,"Egret, snowy",Egretta thula,09/15/2021,false,China,Laniaurius atrococcineus
+18,13,RUB,Common zebra,Equus burchelli,08/13/2021,true,Russia,Dicrostonyx groenlandicus
+19,18,CNY,Barrows goldeneye,Bucephala clangula,04/02/2022,true,China,Sceloporus magister
+20,86,CNY,"Lynx, african",Felis caracal,05/19/2021,false,China,Loris tardigratus
+21,69,EUR,"Cockatoo, sulfur-crested",Cacatua galerita,04/09/2022,true,Malta,Hymenolaimus malacorhynchus
+22,89,CNY,"Puma, south american",Felis concolor,05/30/2021,true,China,Actophilornis africanus
+23,6,SEK,"Lemming, collared",Dicrostonyx groenlandicus,01/13/2022,true,Sweden,Semnopithecus entellus
+24,36,CNY,Flightless cormorant,Nannopterum harrisi,08/10/2021,false,China,Larus dominicanus
+25,42,GMD,"Darter, african",Anhinga rufa,04/14/2022,true,Gambia,Phalacrocorax niger
+26,36,JOD,Gecko (unidentified),unavailable,07/08/2021,true,Jordan,Uraeginthus granatina
+27,26,BRL,Alpaca,Lama pacos,05/24/2021,false,Brazil,Ovis canadensis
+28,95,HRK,"Pigeon, feral rock",Columba livia,11/22/2021,true,Croatia,Anthropoides paradisea
+29,52,PHP,"Barbet, black-collared",Lybius torquatus,05/23/2021,false,Philippines,Graspus graspus
+30,69,NGN,Sun gazer,Cordylus giganteus,11/16/2021,true,Nigeria,Zalophus californicus
+31,52,VND,Common brushtail possum,Trichosurus vulpecula,01/17/2022,false,Vietnam,Eudromia elegans
+32,30,IDR,White-throated kingfisher,Halcyon smyrnesis,01/26/2022,false,Indonesia,Diceros bicornis
+33,42,USD,"Waterbuck, common",Kobus defassa,11/21/2021,false,United States,Zosterops pallidus
+34,88,RUB,"Gecko, barking",Phylurus milli,07/09/2021,true,Russia,Ceratotherium simum
+35,19,SEK,Greater roadrunner,Geococcyx californianus,04/29/2021,false,Sweden,Callorhinus ursinus
+36,28,RUB,"Spoonbill, white",Platalea leucordia,05/14/2021,false,Russia,Sterna paradisaea
+37,28,BRL,"Macaw, scarlet",Ara macao,05/18/2021,true,Brazil,Bison bison
+38,41,CNY,"Peacock, indian",Pavo cristatus,12/05/2021,true,China,Phasianus colchicus
+39,60,RUB,Red-necked phalarope,Phalaropus lobatus,10/20/2021,false,Russia,Bradypus tridactylus
+40,67,HRK,"Civet, common palm",Paradoxurus hermaphroditus,04/14/2022,false,Croatia,Zalophus californicus
+41,81,IDR,Australian masked owl,Tyto novaehollandiae,10/26/2021,false,Indonesia,Aquila chrysaetos
+42,11,BDT,"Roadrunner, greater",Geococcyx californianus,03/22/2022,true,Bangladesh,Zosterops pallidus
+43,6,HNL,California sea lion,Zalophus californicus,11/03/2021,true,Honduras,Coluber constrictor foxii
+44,67,EUR,Wild turkey,Meleagris gallopavo,06/28/2021,false,Greece,Canis lupus
+45,99,BRL,African porcupine,Hystrix cristata,04/29/2021,false,Brazil,Haematopus ater
+46,66,MYR,Blue and yellow macaw,Ara ararauna,07/20/2021,true,Malaysia,Diomedea irrorata
+47,61,JPY,"Fox, silver-backed",Vulpes chama,03/14/2022,false,Japan,Meles meles
+48,4,BYR,"Bat, little brown",Myotis lucifugus,09/04/2021,false,Belarus,Turtur chalcospilos
+49,38,IDR,Denham's bustard,Neotis denhami,01/27/2022,false,Indonesia,Petaurus norfolcensis
+50,29,PHP,Red phalarope,Phalaropus fulicarius,08/01/2021,true,Philippines,Branta canadensis
+51,63,YER,Crowned eagle,Spizaetus coronatus,05/04/2021,false,Yemen,Hystrix cristata
+52,66,CNY,Tailless tenrec,Tenrec ecaudatus,11/20/2021,false,China,Callorhinus ursinus
+53,16,CAD,Chimpanzee,Pan troglodytes,07/31/2021,true,Canada,Eremophila alpestris
+54,6,PLN,"Bandicoot, long-nosed",Perameles nasuta,11/09/2021,false,Poland,Egretta thula
+55,55,IDR,"Flicker, campo",Colaptes campestroides,11/30/2021,true,Indonesia,Oxybelis fulgidus
+56,74,MYR,Gerenuk,Litrocranius walleri,04/25/2021,false,Malaysia,Anser caerulescens
+57,76,IDR,Ibex,Capra ibex,09/10/2021,false,Indonesia,unavailable
+58,87,CNY,"Dragonfly, russian",Libellula quadrimaculata,07/08/2021,true,China,Morelia spilotes variegata
+59,8,EUR,"Iguana, common green",Iguana iguana,09/07/2021,true,France,Nasua nasua
+60,38,THB,Spotted-tailed quoll,Dasyurus maculatus,04/14/2022,false,Thailand,Ceratotherium simum
+61,65,NOK,Tayra,Eira barbata,07/05/2021,true,Norway,Macropus giganteus
+62,45,CNY,"Colobus, magistrate black",Colobus guerza,07/04/2021,true,China,Acridotheres tristis
+63,1,PEN,Bleeding heart monkey,Theropithecus gelada,01/19/2022,true,Peru,Erethizon dorsatum
+64,98,MVR,Zorilla,Ictonyx striatus,05/26/2021,true,Maldives,Myotis lucifugus
+65,57,COP,"Flicker, field",Colaptes campestroides,09/24/2021,true,Colombia,Pan troglodytes
+66,5,COP,Red lava crab,Graspus graspus,06/11/2021,true,Colombia,Bubulcus ibis
+67,35,EUR,"Sparrow, rufous-collared",Zonotrichia capensis,12/17/2021,false,Greece,Gazella thompsonii
+68,18,EUR,"Pheasant, ring-necked",Phasianus colchicus,03/14/2022,true,Finland,Funambulus pennati
+69,57,BRL,"Macaque, bonnet",Macaca radiata,07/17/2021,true,Brazil,Stercorarius longicausus
+70,83,EUR,Downy woodpecker,Picoides pubescens,08/26/2021,false,Spain,Lamprotornis superbus
+71,10,CNY,Brolga crane,Grus rubicundus,11/08/2021,false,China,Falco mexicanus
+72,83,IDR,"Stork, openbill",Anastomus oscitans,10/06/2021,false,Indonesia,Callorhinus ursinus
+73,13,XOF,"Bustard, denham's",Neotis denhami,01/25/2022,true,Mali,Sus scrofa
+74,4,CNY,Jaguarundi,Felis yagouaroundi,01/22/2022,false,China,Ovis ammon
+75,74,CNY,"Rattlesnake, dusky",Crotalus triseriatus,04/13/2022,true,China,Boa caninus
+76,38,COP,Cape starling,Lamprotornis nitens,06/24/2021,false,Colombia,Paraxerus cepapi
+77,73,PEN,Bush dog,Speothos vanaticus,02/25/2022,false,Peru,Carduelis pinus
+78,20,CNY,American crow,Corvus brachyrhynchos,05/03/2021,false,China,Eremophila alpestris
+79,71,EUR,Black-necked stork,Ephippiorhynchus mycteria,08/18/2021,true,Greece,Leptoptilus dubius
+80,4,EUR,Little grebe,Tachybaptus ruficollis,07/27/2021,true,Portugal,Carduelis uropygialis
+81,32,IDR,"Waxbill, violet-eared",Uraeginthus granatina,08/05/2021,true,Indonesia,Canis lupus
+82,23,PHP,Sociable weaver,Philetairus socius,01/21/2022,true,Philippines,Eolophus roseicapillus
+83,9,EUR,Javan gold-spotted mongoose,Herpestes javanicus,03/17/2022,true,France,Calyptorhynchus magnificus
+84,7,PHP,"Dolphin, bottle-nose",Tursiops truncatus,10/10/2021,true,Philippines,Ardea golieth
+85,74,EUR,"Tortoise, indian star",Geochelone elegans,04/23/2021,false,Greece,Mellivora capensis
+86,58,CNY,South African hedgehog,Erinaceus frontalis,04/06/2022,false,China,unavailable
+87,23,PEN,Common brushtail possum,Trichosurus vulpecula,03/29/2022,true,Peru,Capreolus capreolus
+88,64,CNY,"Boa, mexican",Boa constrictor mexicana,12/26/2021,false,China,Ciconia episcopus
+89,24,PEN,Emu,Dromaeus novaehollandiae,08/20/2021,true,Peru,Eurocephalus anguitimens
+90,71,IDR,Magellanic penguin,Spheniscus magellanicus,06/12/2021,true,Indonesia,unavailable
+91,20,ARS,North American beaver,Castor canadensis,01/09/2022,true,Argentina,Seiurus aurocapillus
+92,94,PKR,Greater sage grouse,Centrocercus urophasianus,10/09/2021,true,Pakistan,Sus scrofa
+93,18,IDR,House sparrow,Passer domesticus,11/17/2021,false,Indonesia,Elephas maximus bengalensis
+94,58,IDR,Worm snake (unidentified),Carphophis sp.,06/04/2021,false,Indonesia,Grus canadensis
+95,88,UAH,"Gonolek, burchell's",Laniaurius atrococcineus,08/01/2021,false,Ukraine,Larus dominicanus
+96,62,CNY,Platypus,Ornithorhynchus anatinus,03/03/2022,false,China,Gabianus pacificus
+97,58,IDR,American badger,Taxidea taxus,07/08/2021,true,Indonesia,Macaca fuscata
+98,47,ZWL,"Rhinoceros, square-lipped",Ceratotherium simum,05/15/2021,true,Zimbabwe,Semnopithecus entellus
+99,53,CNY,Gecko (unidentified),unavailable,08/18/2021,true,China,Corvus albicollis
+100,32,IDR,African polecat,Ictonyx striatus,07/30/2021,true,Indonesia,unavailable

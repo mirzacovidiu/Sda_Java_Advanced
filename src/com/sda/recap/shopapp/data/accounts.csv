@@ -1,0 +1,51 @@
+id,billingAddress,isClosed,creationDate,closedDate
+1,02 Transport Lane,true,11/24/2020,08/18/2019
+2,34 Luster Lane,false,12/19/2020,07/19/2020
+3,307 Manitowish Center,false,10/20/2019,09/12/2019
+4,8 Oakridge Court,false,05/30/2020,08/16/2019
+5,485 Cardinal Junction,false,07/12/2020,05/16/2019
+6,226 Esch Avenue,false,01/10/2021,01/23/2021
+7,47 Redwing Way,true,06/14/2020,02/15/2020
+8,017 Jana Street,true,04/01/2021,04/19/2021
+9,5290 Sommers Terrace,false,10/07/2019,01/08/2020
+10,20 Shasta Parkway,false,10/28/2019,08/09/2020
+11,599 Crownhardt Street,true,07/01/2020,01/30/2021
+12,50 Muir Point,false,09/11/2020,10/07/2020
+13,6 Atwood Hill,false,09/24/2020,11/24/2020
+14,8603 Saint Paul Parkway,false,06/08/2019,06/15/2019
+15,562 Schmedeman Circle,true,07/22/2019,02/14/2021
+16,735 Mayer Drive,false,02/28/2021,12/22/2020
+17,39719 Arapahoe Lane,false,10/20/2019,09/09/2019
+18,2 Lien Way,false,08/23/2020,03/11/2020
+19,15 Helena Drive,false,01/01/2020,04/15/2020
+20,64035 Schlimgen Way,true,11/20/2020,12/01/2020
+21,2354 Kipling Trail,false,01/01/2020,09/06/2020
+22,7 Leroy Circle,false,10/28/2019,06/19/2020
+23,3 Elka Court,true,01/11/2021,10/05/2019
+24,4581 Old Gate Circle,true,01/13/2020,12/07/2019
+25,9 Thierer Terrace,true,02/28/2021,01/30/2020
+26,1815 Milwaukee Road,true,11/11/2019,01/15/2020
+27,4929 Truax Pass,false,06/10/2020,11/18/2019
+28,242 6th Crossing,false,01/27/2020,01/27/2020
+29,8085 Norway Maple Center,true,09/18/2020,06/01/2020
+30,6 Schlimgen Hill,false,07/02/2019,01/30/2020
+31,38 Mitchell Plaza,false,08/10/2019,02/07/2020
+32,7497 Hintze Place,true,05/06/2020,08/05/2020
+33,12 Golf Plaza,false,03/21/2020,06/24/2019
+34,5465 Fordem Park,true,09/14/2019,09/26/2020
+35,0 Mayer Junction,true,10/11/2020,07/02/2020
+36,8 Crest Line Center,false,07/20/2020,02/01/2021
+37,4 Northport Avenue,true,04/19/2020,11/29/2020
+38,78849 3rd Drive,false,09/26/2019,11/20/2020
+39,7 Cambridge Circle,false,11/02/2019,03/29/2020
+40,9 Myrtle Lane,true,05/16/2019,08/07/2019
+41,868 Kinsman Place,false,10/17/2020,11/08/2019
+42,454 Transport Place,true,02/28/2021,12/11/2020
+43,9886 Linden Junction,true,08/13/2019,08/18/2020
+44,0953 Hollow Ridge Avenue,true,06/22/2019,10/23/2019
+45,86 Bultman Way,false,02/01/2021,11/28/2020
+46,3868 Rowland Lane,false,04/11/2021,01/13/2020
+47,148 Blaine Drive,false,10/30/2019,10/07/2020
+48,7 Algoma Place,false,08/29/2019,07/22/2020
+49,640 Schiller Point,true,10/09/2019,09/09/2020
+50,49993 Green Point,true,11/16/2020,04/25/2020
